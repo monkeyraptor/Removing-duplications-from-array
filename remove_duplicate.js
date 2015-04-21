@@ -1,6 +1,6 @@
 /*\ 
 |*| Short explanation about how this works: 
-|*| httpmonkeyraptor.johanpaul.net/2015/04/javascript-removing-same-elements-in.html
+|*| http://monkeyraptor.johanpaul.net/2015/04/javascript-removing-same-elements-in.html
 \*/ 
 
 function r_d(a) {
