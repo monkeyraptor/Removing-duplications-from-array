@@ -1,3 +1,8 @@
+/*\ 
+|*| Short explanation about how this works: 
+|*| httpmonkeyraptor.johanpaul.net/2015/04/javascript-removing-same-elements-in.html
+\*/ 
+
 function r_d(a) {
     "use strict";
     var b = a.slice(), //copy array
