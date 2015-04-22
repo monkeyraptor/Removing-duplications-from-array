@@ -12,7 +12,7 @@ function r_d(a) {
         j = 0;
         for (j; j < length; j++) {
             if (i < j && b[j] === b[i]) {
-                b.splice(j, 1, j + " (deleted)"); //added token the "original element + (deleted)" string
+                b.splice(j, 1, b[j] + " (deleted)"); //added token the "original_element (deleted)" string
             }
         }
     }
