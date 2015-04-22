@@ -1,11 +1,11 @@
 function r_d(a) {
     "use strict";
     var b = a.slice(), //copy array
+        buffer = [],
         i = 0,
-        k = 0,
-        length = b.length,
         j,
-        buffer = [];
+        k = 0,
+        length = b.length;
 
     //splicing same elements
     for (i; i < length; i++) {
