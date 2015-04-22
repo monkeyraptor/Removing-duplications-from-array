@@ -1,4 +1,4 @@
-function r_d_2(a) {
+function r_d(a) {
     "use strict";
     var b = a.slice(), //copy array
         i = 0,
