@@ -3,7 +3,7 @@
 
 Usage: `r_d(the_array)`
 
-## The idea explanation (JavaScript) and traslated-to-Python related post
+#### Idea explanation (JavaScript) and Python snippet
 
 1. Kinda an explanation [on Monkey Raptor](http://monkeyraptor.johanpaul.net/2015/04/javascript-removing-same-elements-in.html)
 
