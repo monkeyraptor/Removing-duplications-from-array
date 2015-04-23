@@ -16,9 +16,9 @@ function r_d(a) {
             }
         }
     }
-    //removing "deleted" elements
+    //take the non-"deleted" elements to the *buffer* variable
     for (k; k < length; k++) {
-        if (!b[k].toString().match("(deleted)")) { //if it matches the string "(deleted)"
+        if (!b[k].toString().match("(deleted)")) { //if it doesn't match the token: "(deleted)"
             buffer.push(b[k]);
         }
     }
