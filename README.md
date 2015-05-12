@@ -1,5 +1,5 @@
 # Removing duplicates from an array
-**JavaScript**: removing duplicated elements in an array without sorting it
+**JavaScript**: removing duplicated elements in an array without sorting them.
 
 Usage: `r_d(the_array)`
 
@@ -8,8 +8,8 @@ Example:
 var array = [1, 2, 3, 4, "doo", "dee", "doo", "♪", "doo"],
     trimmed = r_d(array);
 
-//*trimmed* variable output will be an object array.
-//It consists of [1, 2, 3, 4, "doo, "dee", "♪"]
+// *trimmed* variable output will be an array.
+// It consists of [1, 2, 3, 4, "doo, "dee", "♪"]
 ```
 
 #### Idea explanation (JavaScript) and Python snippet
