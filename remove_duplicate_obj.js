@@ -1,6 +1,6 @@
 var r_d = function (a) {
     "use strict";
-    var result = {},
+    var result = [],
         obj;
     if (a instanceof Array) {
         a.forEach(function (v, i) {
