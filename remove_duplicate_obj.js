@@ -17,4 +17,4 @@ var r_d = function (a) {
         });
     }
     return result;
-};
+}; // The ouput will be sorted with this method. WOOPSIE.
