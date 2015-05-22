@@ -12,8 +12,8 @@ var array = [1, 2, 3, 4, "doo", "dee", "doo", "♪", "doo"],
 // It consists of [1, 2, 3, 4, "doo, "dee", "♪"]
 ```
 
->You can use either the `"shortened"` version or the `"obj"` snippet. Both will do the same job.
->The 1st version was the initial tinkering.
+>You can use either the `"shortened"` version or the `"obj"` snippet. ~~Both will do the same job.~~ The `shortened` version will return the original (not sorted) array sequence and the `obj` will return the sorted array. Both will return an array without the duplicated elements.
+>The 1st version (longer snippet) was the initial tinkering.
 
 #### Idea explanation (JavaScript) and Python snippet
 
