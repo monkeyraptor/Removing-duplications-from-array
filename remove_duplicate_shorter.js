@@ -11,7 +11,7 @@ function r_d(a) {
             });
         });
         b.forEach(function (v) {
-            if (!(/_\*deleted\*_/.test(v.toString()))) { // Check the marker.
+            if (v !== "_*deleted*_") { // Check the marker.
                 buffer.push(v);
             }
         });
