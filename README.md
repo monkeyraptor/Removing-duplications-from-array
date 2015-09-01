@@ -7,6 +7,8 @@
 r_d(the_array)
 ```
 
+It's recommended to use the latest [remove_duplicate_shorter.js](https://github.com/monkeyraptor/remove_duplicates/blob/master/remove_duplicate_shorter.js)
+
 ## Example
 ```javascript
 var array = [1, 2, 3, 4, "doo", "dee", "doo", "♪", "doo"],
