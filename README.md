@@ -9,6 +9,8 @@ r_d(the_array)
 
 It's recommended to use the latest [remove_duplicate_shorter.js](https://github.com/monkeyraptor/remove_duplicates/blob/master/remove_duplicate_shorter.js)
 
+That version won't change the original order of the array elements.
+
 ## Example
 ```javascript
 var array = [1, 2, 3, 4, "doo", "dee", "doo", "♪", "doo"],
@@ -19,9 +21,11 @@ var array = [1, 2, 3, 4, "doo", "dee", "doo", "♪", "doo"],
 ```
 
 ## Additional
->You can use either the `"shorter"` version or the `"obj"` snippet. ~~Both will do the same job.~~ The `"shorter"` version will return **the original (not sorted) array sequence**, and the `"obj"` will return the **sorted array**. Both will **return an array without the duplications**.
+The `"remove_duplicate_obj.js"` version will return the **sorted array**.
 
->The 1st version (longer snippet) was the initial tinkering. It has the same output as the `"shorter"` version but has longer lines of code.
+It will also **return an array without the duplications**.
+
+The 1st version (longer snippet) was the initial tinkering. It has the same output as the `"shorter"` version but has longer lines of code.
 
 ## Idea explanation (JavaScript) and Python snippet
 
