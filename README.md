@@ -18,6 +18,6 @@ var array = [1, 2, 3, 4, "doo", "dee", "doo", "♪", "doo"],
 
 #### Idea explanation (JavaScript) and Python snippet
 
-1. Kinda an explanation [on Monkey Raptor](http://monkeyraptor.johanpaul.net/2015/04/javascript-removing-same-elements-in.html)
+1. Kinda an explanation on <a href="http://monkeyraptor.johanpaul.net/2015/04/javascript-removing-same-elements-in.html" target="_blank" title="new window">Monkey Raptor</a>.
 
-2. Python equivalency post [on Monkey Raptor](http://monkeyraptor.johanpaul.net/2015/04/python-removing-same-elements-in-array.html)
+2. Python equivalency post on <a href="http://monkeyraptor.johanpaul.net/2015/04/python-removing-same-elements-in-array.html" target="_blank" title="new window">Monkey Raptor</a>.
